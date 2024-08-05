@@ -1,6 +1,6 @@
-""
-Some quotess.
-""
+"""
+Some Quotes.
+"""
 
 def hello_world():
     quote = "Hello, World!"
